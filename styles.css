@@ -1,0 +1,9 @@
+/* Use several properties mentioned previosly (color, bakground color,
+typegraphy properties etc.
+*/
+
+* {
+    background-color: slategrey;
+    color:indigo;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
